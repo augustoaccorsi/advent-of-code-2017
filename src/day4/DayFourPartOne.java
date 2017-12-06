@@ -11,7 +11,7 @@ public class DayFourPartOne {
 
 		int count = 0;
 		try (BufferedReader br = new BufferedReader(new FileReader(
-				"C:\\Users\\i851169\\Documents\\Projects\\Dev\\Java\\adv-of-code\\bin\\day4\\dayFourInput.txt"))) {
+				"C:\\Users\\i851169\\Documents\\Projects\\Dev\\advent-of-code-2017\\bin\\day4\\dayFourInput.txt"))) {
 			String line;
 			String[] password;
 			boolean isValid = true;
